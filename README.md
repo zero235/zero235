@@ -8,7 +8,7 @@ Some of the information here will involve
 -test loans for mortgages
 
 All are samples of building
-Believable test data that can be used by sales 
+believable test data that can be used by sales 
 It will also illustrate how to build 
 Live, ongoing data so that your system presents as alive
 
